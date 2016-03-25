@@ -1,0 +1,7 @@
+name: bTeams
+version: 1.0
+author: Coltify
+main: me.coltify.bteams.Main
+commands:
+  team:
+   aliases: [t, bteam]

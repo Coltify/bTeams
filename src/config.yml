@@ -1,0 +1,22 @@
+# bTeams by Coltify v1.0
+# Contact me at ColtifyMC@gmail.com
+
+# The team messenger prefix 
+# ex: "&8[&cTeams&8] &bbTeams &7is the best teams plugin in the world!"
+Prefix: "&8[&bbTeams&8]"
+
+# The time a player has to wait before warping to their team HQ without moving.
+# Put -1 for instant tp.
+HQ-Warp-Time: 10
+
+# The length of time a player is invincible after warping to HQ. (seconds)
+HQ-Warp-Invincibilty: 5
+
+# The max amount of players that can be in a team at once.
+# Put -1 for an infinite amount. 
+Team-Member-Limit: 20
+
+# The max length a team name can be. 
+# Put -1 for an infinite length.
+Team-Name-Limt: 16
+

@@ -1,0 +1,24 @@
+# bTeams Messages configuration by Coltify 
+# Use <nl> for a new line.
+UNKNOWN-COMMAND: "&7Unknown Command. Type &b/team help &7for help."
+TEAM-NOT-SPECIFIED: "&7Team name not specified."
+PLAYER-NOT-SPECIFED: "&7Player not specified."
+PLAYER-NOT-ONLINE: "&b<player> is not online right now."
+CANT-CREATE-TEAM: "&7You can't create a team because you're already in a team.<nl>&7Do &b/team leave &7to leave your team."
+TEAM-NAME-ERROR: "&7Team names can only contain alphanumeric values."
+TEAM-NAME-TAKEN: "&7This team name has already been taken."
+CREATED-TEAM: "&7You have successfully created the &b<team>&7team." 
+NOT-IN-TEAM: "&7You are not in a team."
+CANT-DISBAND-TEAM: "&7Only the team leader can disband the team."
+DISBANDED-TEAM: "&7You have disbanded team &b<team>&7." 
+COMMAND-HELP: "&7/team §b<command> <usage> &7- &b<description>"
+INVALID-TEAM-OR-PLAYER-SPECIFIED: "&7Invalid team/player specified."
+CANT-INVITE-TO-TEAM: "&7Only team managers or the team leader can invite players to the team."
+INVITE-COOLDOWN: "&7You cannot invite &b<player> &7to the team yet."
+CANT-JOIN-TEAM: "&7You can't join a team because you're already in a team.<nl>&7Do &b/team leave &7to leave your team."
+TEAM-DOESNT-EXIST: "&7The team &b<team> doesn't exist."
+NOT-INVITE: "&7You weren't invited to join this team."
+
+# Alerts are messages that the whole team receives.
+TEAM-DISBAND-ALERT: "&b<leader> &7has disbanded the team."
+PLAYER-JOIN-TEAM-ALERT: "&b<player> &7has joined the team."
